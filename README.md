@@ -8,7 +8,7 @@ Jogo Feito no 5 Período para a conclusão da matéria
 
 ## Imagens
 
-<img src="https://github.com/Joaogabriel148/App_React/blob/main/img/AppReact.png"/>
+<img src="Img/Captura de tela 2024-05-13 195205.png"/>
 
 ## :handshake: Colaboradores
 <table>
